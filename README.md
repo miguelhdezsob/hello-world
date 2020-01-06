@@ -1,5 +1,4 @@
 # Welcome to my Github
-If you would like to see the projects I have worked on please contact me at _miguel.hdez.sob{at}hotmail.com_
 
 ## Past Work ##
 ### School projects written in C++ and C, such as: ###
